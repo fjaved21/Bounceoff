@@ -1,2 +1,2 @@
-# Bounceoff
-2 rectangles bouncing off each other
+# p5.play-boilerplate
+Boiler plate for p5.play
